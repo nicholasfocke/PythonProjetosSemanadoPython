@@ -18,7 +18,7 @@ print(maximo)
 print(minimo)
 print(atual)
 
-destinatario = "anabeatrizpontesaguiarb@gmail.com"
+destinatario = "digiteemailaqui@gmail.com"
 assunto = "Analise Fundos imobiliários" 
 mensagem = f"""
 Boa noite,
