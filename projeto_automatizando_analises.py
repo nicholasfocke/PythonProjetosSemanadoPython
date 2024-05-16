@@ -23,14 +23,14 @@ assunto = "Analise Fundos imobiliários"
 mensagem = f"""
 Boa noite,
 
-Segue abaixo as análises do Fundo {ticker} dos ultimos 2 meses:
+Segue abaixo as análises do Fundo ou ação {ticker} dos ultimos 2 meses:
 
 Cotação Máxima: R${round(maximo,2)}
 Cotação Mínima: R${round(minimo,2)}
 Cotação Atual: R${round(atual,2)}
 
 Atenciosamente,
-Nicholas.
+SeuNome.
 """
 
 pyautogui.PAUSE = 3
